@@ -16,5 +16,3 @@ Cum poate fi folosit, în detaliu, este descris în lucrare.
 1. Importați proiectul în InteliJ IDEA folosind File -> Open.. -> alegeți proiectul -> OK.
 2. Rulați aplicația
 3. Poate fi accesat urmând acest [Link](http://localhost:8080/project-spring-mvc/laureates)
-
-
