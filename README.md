@@ -20,3 +20,5 @@ Informațiile sunt stocate într-o bază de date HSQLDB, iar în cazul introduce
 1. Importați proiectul în InteliJ IDEA folosind File -> Open.. -> alegeți proiectul -> OK.
 2. Rulați aplicația
 3. Poate fi accesat urmând acest [Link](http://localhost:8080/project-spring-mvc/laureates)
+
+![GitHub Logo](/src/main/webapp/resources/img/1.png)
