@@ -2,7 +2,7 @@
 <div class="container">
     <hr>
     <footer>
-        <div style="text-align: center;"><p> LTW PROJECT 2018 </p></div>
+        <div style="text-align: center;"><p> Spring MVC PROJECT 2018 </p></div>
     </footer>
 </div>
 
